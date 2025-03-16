@@ -16,7 +16,6 @@ The project uses a labeled Twitter dataset (`hateDetection_train.csv`) containin
 ## Project Structure
 - `Hate speech detection on twitter data_live.ipynb`: Main notebook containing the complete pipeline
 - `hateDetection_train.csv`: Training dataset (not included in repository)
-- `hate_speech_detection_resume.txt`: Project summary in resume format
 
 ## Implementation Details
 
